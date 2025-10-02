@@ -1,0 +1,26 @@
+{
+  "Youtube Videos": {
+    "base_minutes": 5,
+    "base_xp": 2.5
+  },
+  "Bakery / Fast foods": {
+    "base_minutes": 1,
+    "base_xp": 2.5
+  },
+  "Beverages (Non-Alcoholic)": {
+    "base_minutes": 1,
+    "base_xp": 10.0
+  },
+  "Mystery Box": {
+    "base_minutes": 1,
+    "base_xp": 50.0
+  },
+  "Offline games": {
+    "base_minutes": 5,
+    "base_xp": 10.0
+  },
+  "Online Games": {
+    "base_minutes": 30,
+    "base_xp": 60.0
+  }
+}

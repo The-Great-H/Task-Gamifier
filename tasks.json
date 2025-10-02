@@ -1,0 +1,47 @@
+{
+  "Study": {
+    "base_minutes": 5,
+    "base_xp": 5.0,
+    "multiplier": 1.2
+  },
+  "Push-ups": {
+    "base_minutes": 20,
+    "base_xp": 5.0,
+    "multiplier": 1.2
+  },
+  "Squats": {
+    "base_minutes": 20,
+    "base_xp": 5.0,
+    "multiplier": 1.2
+  },
+  "Skipping": {
+    "base_minutes": 100,
+    "base_xp": 5.0,
+    "multiplier": 1.2
+  },
+  "Cycling": {
+    "base_minutes": 10,
+    "base_xp": 5.0,
+    "multiplier": 1.2
+  },
+  "Playing Guitar": {
+    "base_minutes": 15,
+    "base_xp": 5.0,
+    "multiplier": 1.2
+  },
+  "Pull-Ups": {
+    "base_minutes": 10,
+    "base_xp": 5.0,
+    "multiplier": 1.2
+  },
+  "Strictly Educational Videos in Youtube": {
+    "base_minutes": 10,
+    "base_xp": 5.0,
+    "multiplier": 1.2
+  },
+  "Reading": {
+    "base_minutes": 5,
+    "base_xp": 4.0,
+    "multiplier": 1.2
+  }
+}
