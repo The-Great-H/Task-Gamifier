@@ -1,0 +1,5 @@
+List of required packages for Streamlit Community Cloud deployment
+streamlit
+pandas
+plotly
+numpy
